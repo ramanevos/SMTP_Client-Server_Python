@@ -1,0 +1,7 @@
+
+
+Sender: <email@gmail.com>
+Recipient 1: <recipi@gmail.com>
+Recipient 2: <econd@gmail.com>
+Data:  this is the content of the amil.
+
